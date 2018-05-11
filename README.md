@@ -1,0 +1,1 @@
+These files were used to print our PCB boards with the Bantam tools PCB milling machine. the laundry_on_off files correspond to the circuit that determines if a laundry machine is running or not. The product_compass file corresponds to the circuit that determines if a laundry machines door is open or not
